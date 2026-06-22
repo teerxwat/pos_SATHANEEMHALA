@@ -1,0 +1,3 @@
+"$env:LOCALAPPDATA\Microsoft\WindowsApps\py.exe" -m uvicorn backend.main:app --host 0.0.0.0 --port 42091
+
+npm run dev
